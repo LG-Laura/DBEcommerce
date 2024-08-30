@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 public class Categoria
 {
     public int IdCategoria { get; set; }
